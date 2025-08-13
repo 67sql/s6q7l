@@ -8,7 +8,7 @@ return {
     "Mitchgot",
     "LoYaL_KillaBoi413",
     "LoYaL_AltKilla413",
-    "V1xram ",
+    "V1xram",
     "LazerLipAlt",
     "Kichuchikk",
     "",
