@@ -11,7 +11,7 @@ return {
     "V1xram",
     "LazerLipAlt",
     "Kichuchikk",
-    "",
+    "BURNOUSE5",
     ""
 }
 
