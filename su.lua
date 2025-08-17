@@ -15,7 +15,7 @@ return {
     "Theyluvfab1",
     "ITS_MEyourangeIDK",
     "Spyzbilly",
-    "AlanIXEN",
+    "AlaniXEN",
     "",
     "",
     "",
