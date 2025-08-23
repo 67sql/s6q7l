@@ -24,7 +24,7 @@ return {
     "rrrrrrrrrr45432g",
     "HenneZocktTV",
     "mralt6620",
-    "GrindingAccIdk99",
+    "Grinding_AccIdk99",
     "",
     "",
     "",
